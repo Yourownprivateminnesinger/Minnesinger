@@ -6,8 +6,13 @@
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
 name: 
+
+
 # 描述/签名
-description: 极端恋北，专注我宇的钟情妄想症患者
+description: 
+
+
+极端恋北，专注我宇的钟情妄想症患者
 
 #
 # 下面的设定都是可选的
@@ -39,7 +44,7 @@ footer-links:
   weibo: u/6641556327 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email:  
+  email: 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: #https://github.com/<>
